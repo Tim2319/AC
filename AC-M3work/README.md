@@ -8,10 +8,10 @@
 
 ### 功能
 
--一頁式查看餐廳
--瀏覽餐廳資訊
--關鍵字搜尋餐廳
--餐廳地址連結google地圖
+- 一頁式查看餐廳
+- 瀏覽餐廳資訊
+- 關鍵字搜尋餐廳
+- 餐廳地址連結google地圖
 
 # 如何開始
 
@@ -19,7 +19,7 @@
 2.將專案 clone 到本地
 
    ```
-   git clone https://github.com/Tim2319/ACwork/tree/main/AC%20work
+   git clone https://github.com/Tim2319/AC/tree/main/AC-M3work
    ```
 
 3. 在本地開啟之後，透過終端機進入資料夾，輸入：
